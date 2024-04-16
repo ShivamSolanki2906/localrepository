@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "id": "a5ea",
+      "name": "shivam solanki",
+      "email": "shivamseller.com",
+      "possword": "abc@123"
+    },
+    {
+      "id": "9adb",
+      "name": "shivam rajput",
+      "email": "shivamseller.com",
+      "possword": "abc@123"
+    },
+    {
+      "id": "9f3e",
+      "name": "Shivam",
+      "password": "Solanki",
+      "email": "shivam123@gmail.com"
+    },
+    {
+      "id": "df48",
+      "name": "Shivam",
+      "password": "Solanki",
+      "email": "shivam123@gmail.com"
+    },
+    {
+      "id": "2c9e",
+      "name": "shivam",
+      "password": "124570",
+      "email": "shivam123@gmail.com"
+    },
+    {
+      "id": "792d",
+      "name": "sumit",
+      "password": "22008",
+      "email": "sumit@123.com"
+    },
+    {
+      "id": "64e6",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "477c",
+      "name": "shivam",
+      "password": "1234567",
+      "email": "Shivam2906@gmail.co"
+    },
+    {
+      "id": "dd3d",
+      "name": "shivam",
+      "password": "12345",
+      "email": "shivam123@gmail.com"
+    }
+  ]
+}
